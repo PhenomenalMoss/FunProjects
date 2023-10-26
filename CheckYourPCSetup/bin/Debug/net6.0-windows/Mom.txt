@@ -1,0 +1,2 @@
+mom1/soqet1/ddr1/ddr1
+mom2/soqet2/ddr2/ddr2

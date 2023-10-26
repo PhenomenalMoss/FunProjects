@@ -1,0 +1,17 @@
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\bin\Debug\net6.0-windows\CheckYourPCSetup.exe
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\bin\Debug\net6.0-windows\CheckYourPCSetup.deps.json
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\bin\Debug\net6.0-windows\CheckYourPCSetup.runtimeconfig.json
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\bin\Debug\net6.0-windows\CheckYourPCSetup.dll
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\bin\Debug\net6.0-windows\CheckYourPCSetup.pdb
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\obj\Debug\net6.0-windows\CheckYourPCSetup.csproj.AssemblyReference.cache
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\obj\Debug\net6.0-windows\CheckYourPCSetup.Form1.resources
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\obj\Debug\net6.0-windows\CheckYourPCSetup.csproj.GenerateResource.cache
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\obj\Debug\net6.0-windows\CheckYourPCSetup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\obj\Debug\net6.0-windows\CheckYourPCSetup.AssemblyInfoInputs.cache
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\obj\Debug\net6.0-windows\CheckYourPCSetup.AssemblyInfo.cs
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\obj\Debug\net6.0-windows\CheckYourPCSetup.csproj.CoreCompileInputs.cache
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\obj\Debug\net6.0-windows\CheckYourPCSetup.dll
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\obj\Debug\net6.0-windows\refint\CheckYourPCSetup.dll
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\obj\Debug\net6.0-windows\CheckYourPCSetup.pdb
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\obj\Debug\net6.0-windows\CheckYourPCSetup.genruntimeconfig.cache
+C:\Users\GameStation\source\repos\CheckYourPCSetup\CheckYourPCSetup\obj\Debug\net6.0-windows\ref\CheckYourPCSetup.dll
